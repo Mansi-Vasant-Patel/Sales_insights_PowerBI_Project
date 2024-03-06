@@ -11,4 +11,9 @@ The Sales director of the company is facing a lot of challenges in terms of trac
 ## Project Planning and Data Discovery
 
 * Project Planning using AIMS Grid -
-
+  It is a project management tool which consists of four components-
+  1. Purpose - What do we want to achieve? What to do in order to achieve it?
+  2. Stakeholders - Which teams or Who from the company will be involved?
+  3. End Result - After the project is over what do we want to achieve? Defining the end result clearly is very important.
+  4. Success Criteria - Defining how the project was successful after the completion of the project for which company may have spent few million dollars. We need to specify the exact success criteria
+        
