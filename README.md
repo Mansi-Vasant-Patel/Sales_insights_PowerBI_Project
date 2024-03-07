@@ -22,16 +22,15 @@ The Sales director of the company is facing a lot of challenges in terms of trac
 1. Purpose : Unlock sales insights to support decision making ultimately helping business grow.
 
 2. Stakeholders :-
-* Sales Director
-* Marketing Team
-* Customer Service Team
-* Data and Analytics Team
-* IT Team
+  * Sales Director
+  * Marketing Team
+  * Customer Service Team
+  * Data and Analytics Team
+  * IT Team
 
 3. End result :- An automated dashboard providing quick and latest sales isights in order to support data driven decision making.
 
 4. Success Criteria :-
-
-* Dahboard uncovering sales insights with latest data available.
-* Sales team able to take better decisions and prove 10% cost saving of total spend.
-* Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
+  * Dahboard uncovering sales insights with latest data available.
+  * Sales team able to take better decisions and prove 10% cost saving of total spend.
+  * Sales analysis stop data gathering manually in order to save 20% business time and reinvest it value added activity.
